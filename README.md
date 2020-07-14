@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning  VueJs
-- 📫 How to reach me:shainshayusuf@gmail.com
+- 📫 Reach me at:shainshayusuf@gmail.com
 
 <!--
 **shainshayusuf/shainshayusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
