@@ -11,7 +11,7 @@
 ```js
 export default () => ({
   askMeAbout: [
-    "webdev", "tech", "music",
+    "webdev", "tech", 
     "mathematics", 
   ],
   technologies: {
