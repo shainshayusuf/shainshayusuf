@@ -5,6 +5,30 @@
 - 🌱 I’m currently learning  VueJs
 - 📫 Reach me at:shainshayusuf@gmail.com
 
+
+👨‍🎓 Computer Engineer from St.Joseph's College Of Engineering 
+
+```js
+export default () => ({
+  askMeAbout: [
+    "webdev", "tech", "music",
+    "mathematics", 
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["vue"],
+      css: ["materialize"]
+    },
+    backEnd: {
+      js: ["node", "express"],
+      
+    },
+    languages: ["c", "javascript", "Dart", "python"],
+    databases: ["mongo", "firebase-database", "MySQL"]
+  },
+});
+```
+
 <!--
 **shainshayusuf/shainshayusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
