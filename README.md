@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shainsha-yusuf-774962141/)](https://www.linkedin.com/in/shainsha-yusuf-774962141/)
 
-- 🌱 I’m currently learning  VueJs
+- 🌱 I’m currently learning PostgreSQL
 - 📫 Reach me at:shainshayusuf@gmail.com
 
 
@@ -16,14 +16,14 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["vue"],
-      css: ["materialize"]
+      js: ["vue" , "react"  , "angular"],
+      css: ["materialize" , "vuetify" ]
     },
     backEnd: {
       js: ["node", "express"],
       
     },
-    languages: ["c", "javascript", "Dart", "python"],
+    languages: ["c", "javascript", "Dart", "python" , "typescript"],
     databases: ["mongo", "firebase-database", "MySQL"]
   },
 });
